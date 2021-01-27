@@ -13,7 +13,6 @@ const decimal = document.getElementById(".equals");
 function onStart() {
   inputDisplay.textContent = "";
 }
-console.log(historyDisplay);
 onStart();
 
 let currentOperand = 0;
